@@ -25,3 +25,4 @@ The companies/organizations are listed in alphabetical order grouped by the phas
 | [数元灵](https://www.dmetasoul.com/)  | [@xuzhiwei](xuzw@dmetasoul.com) | Testing | MetaSpore distributed multimodal AI platform |
 | [Gaussian Robotics](https://www.gaussianrobotics.com/)  | [@gaohairong](gaohairong@gs-robot.com) | Testing | AI Platform on k8s |
 | [Metaapp](https://www.metaapp.cn/)  | [@xzbcodelife](xzbzxcasdf@163.com) | Testing | Recommendation |
+| [midea](https://www.midea.com/cn/)  | [@zouxh](zouxiaohu87@163.com) | Testing | AI Platform on k8s |
